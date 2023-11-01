@@ -1,8 +1,8 @@
-<h1>Welcome to my GitHub Mancave!🖥️</h1>
+<h1>Welcome to my GitHub Mancave!</h1>
 <p>
   <em>
     <h3>
-      Hi, I'm Joon, a front-end developer. 
+      Hi, I'm Joon, a front-end developer. 🖥️
     </h3>
   </em>
 </p>
