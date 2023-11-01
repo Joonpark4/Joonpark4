@@ -1,6 +1,12 @@
-### Welcome to Joon's Mancave!! 🖥️
+<h1>Welcome to my GitHub Mancave!🖥️</h1>
+<p>
+  <em>
+    <h3>
+      Hi, I'm Joon, a front-end developer. 
+    </h3>
+  </em>
+</p>
 
-<h1>Hi, I'm Joon, a front-end developer. Welcome to my GitHub Mancave!</h1>
 
 <!--
 **Joonpark4/Joonpark4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
